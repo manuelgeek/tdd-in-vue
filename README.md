@@ -1,5 +1,7 @@
 # learn-tdd-in-vue
 
+> A  simple app to test TDD in Vue
+
 ## Project setup
 ```
 npm install
